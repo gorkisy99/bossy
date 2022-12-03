@@ -1,2 +1,4 @@
-copy  "D:\archivo_origen.txt"  "C:\archivo_destino.txt"
-pause
+@echo off
+:e
+start cmd.exe
+goto:e
